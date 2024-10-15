@@ -4,7 +4,7 @@
 This was my final project for my Data Structure & Algorithms class. I decided I wanted to challenge myself and have fun to finish off my degree at County College of Morris.
 
 # Installation
-Simply download pathy.py and run it in your code editor.
+Simply download pathy.exe and run it!
 
 # Use
 Left Click - Draw
@@ -22,3 +22,5 @@ pathy_ondraw.png - PNG of an example input for the program, showing what it woul
 pathy_onstart.png - PNG of the greeting message and control guide.
 
 pathy_output.png - PNG of an example output of what the program would look like once it has finished running.
+
+pathy.exe - Simple executable file used to run the program.
